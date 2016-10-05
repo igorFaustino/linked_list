@@ -28,14 +28,9 @@ void list_destroy(List* list);
 void list_insertLast(List* list, Element* e);
 int list_remove_last(List* list);
 void list_print(List* list);
-int list_indexOf(List* list, int id);
 Element* list_getById(List* list, int id);
-
-int list_insertAt(List* list, Element* e, int pos);
 void list_insertSorted(List* list, Element* e);
-int list_removeByIndex(List* list, int index);
 int list_removeById(List* list, int id);
-
 void list_insertFirst(List* list, Element* e);
 
 #endif // LINKED_LIST_H
