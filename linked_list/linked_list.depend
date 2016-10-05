@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1475675449 source:/home/igor/programacao/list/linked_list/linked_list/src/linked_list.cpp
+	"linked_list.h"
+
+1475675420 /home/igor/programacao/list/linked_list/linked_list/include/linked_list.h
+	<iostream>
+	<string>
+
